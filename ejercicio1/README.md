@@ -7,7 +7,7 @@ Crear una carpeta llamada ***ejercicios*** desde la consola. **mkdir ejercicios*
 Cambiar la ubicación a la nueva carpeta que crearon. **cd ejercicios**
 ## Paso 4
 Abrir la carpeta con VSCode. **code .**
-# Paso 5
+## Paso 5
 En VSCode crear una carpeta ***ejercicio1***. **mkdir ejercicios1**
 ## Paso 6
 Crear un archivo llamado ***README.md*** (vacío) dentro de la carpeta ***ejercicio1*** **touch README.md** 
