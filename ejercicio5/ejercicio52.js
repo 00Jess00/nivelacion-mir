@@ -1,5 +1,4 @@
 function max(array){
-    let mx=array[0];
     if(array){
         for (let i = 0; i < array.length; i++) {
             if(mx<array[i])
