@@ -1,13 +1,13 @@
 function max(array){
-    if(array){
+    let mx=0;
+    if(array.length>0){
         for (let i = 0; i < array.length; i++) {
-            if(mx<array[i])
-                mx = array[i];
-            
+            if(mx<array[i]) mx = array[i];
         }
         return mx;
-    }else
-        return "undefined";
+    }else{
+        return;
+    }
 }
 
 console.log(max([1,3,2]))

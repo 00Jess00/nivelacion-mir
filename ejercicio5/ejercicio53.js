@@ -1,5 +1,5 @@
 function maxIndex(array){
-    
+    let mx=0
     if(array.length>0){
         let mx=array[0], id=0;
         for (let i = 0; i < array.length; i++) {
